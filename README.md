@@ -1,5 +1,15 @@
 # Hi there I'm Olwethu! 👋
 
+
+
+
+
+
+![Purple Clouds Gamer Girl BRB Twitch Screen](https://user-images.githubusercontent.com/100033623/155564387-9c0b924f-f373-4a97-ba3e-79e07d9ed240.gif)
+
+
+
+
 <img align = "left" width = "47%" src="https://github-readme-stats.vercel.app/api?username=olwethunciza&show_icons=true&theme=radical"/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=olwethunciza&langs_count=8)](https://github.com/olwethunciza/github-readme-stats)
