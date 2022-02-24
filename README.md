@@ -1,11 +1,11 @@
-# Hi there I'm Olwethu! 👋
 
 
 
 
 
 
-![Purple Clouds Gamer Girl BRB Twitch Screen](https://user-images.githubusercontent.com/100033623/155564387-9c0b924f-f373-4a97-ba3e-79e07d9ed240.gif)
+
+<img width= "500" height ="250" src= "https://user-images.githubusercontent.com/100033623/155564387-9c0b924f-f373-4a97-ba3e-79e07d9ed240.gif"/>
 
 
 
