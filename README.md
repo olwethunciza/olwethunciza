@@ -3,10 +3,10 @@
 
 
 
-
+<p align= "center">
 
 <img width= "500" height ="250" src= "https://user-images.githubusercontent.com/100033623/155564387-9c0b924f-f373-4a97-ba3e-79e07d9ed240.gif"/>
-
+<p>
 
 
 
