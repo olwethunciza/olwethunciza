@@ -9,11 +9,6 @@
 <p>
 
 
-
-<img align = "left" width = "47%" src="https://github-readme-stats.vercel.app/api?username=olwethunciza&show_icons=true&theme=radical"/>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=olwethunciza&langs_count=8)](https://github.com/olwethunciza/github-readme-stats)
-
 <br>
 
 # Development Tools 🔨
